@@ -12,3 +12,12 @@
 - does Struct in swift function like class properties?
 - what does the "some" keyword mean in swift
 - is `->` a lambda expression in swift?
+- what are swift casing conventions?
+- how to swift equality operators work?
+- does the self keyword work like "this" in JS?
+- what is swift string interpolation syntax
+- what is this funky foreach syntax
+- What does `guard` keyword do?
+
+# Observations
+- init() functions like constructor()
