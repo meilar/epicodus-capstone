@@ -7,3 +7,8 @@
 # Documentation
 - Swift Language: https://docs.swift.org/swift-book
 - Human Interface Guidelines: https://developer.apple.com/design/human-interface-guidelines
+
+# Open questions
+- does Struct in swift function like class properties?
+- what does the "some" keyword mean in swift
+- is `->` a lambda expression in swift?
