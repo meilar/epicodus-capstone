@@ -13,4 +13,4 @@ This is a record of the work and research that went into my capstone project for
 * 11:30am-12:30pm: Continue tutorial, [add card view list](https://github.com/meilar/scrumdinger/commit/333eff6fa0a237b63fa83618388764c848c1a1f6)
 * 1:30pm-2:30pm: Continue tutorial, [add navigation hierarchy](https://github.com/meilar/scrumdinger/commit/662ca698d7a227f93fe25a7b1c215ccfac066b7c)
 * 4:30pm-5:30pm: Continue tutorial, [complete nav hierarchy](https://github.com/meilar/scrumdinger/commit/6f8398d9286e064314c10f5546b6e50563d05c29)
-* 
+* 5:30pm-6:30pm: Continue tutorial, [add state and state binding to multiple views](https://github.com/meilar/scrumdinger/commit/c03d94248c157c58aa039f07816d0967512e8049)
