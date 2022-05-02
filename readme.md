@@ -2,6 +2,11 @@
 
 This is a record of the work and research that went into my capstone project for Epicodus.
 
+## Project Overview
+Goodreads is a popular book reading tracking app. It was bought by Amazon in 2013 and development on it basically stopped. The time is right for a modern app to keep track of book lists, logging books read, etc.
+
+My capstone project is to develop an app using the leading edge toolchain for developing iOS apps: the Swift programming language, Xcode IDE and device simulator, and Apple APIs for app development including SwiftUI, CloudKit, and AuthenticationKit.
+
 ## Research and Planning Log
 
 ### Saturday 30 April 2022
