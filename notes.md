@@ -21,3 +21,4 @@
 
 # Observations
 - init() functions like constructor()
+- $0 and $1 are shorthands for arguments in a closure, zero indexed
