@@ -22,4 +22,5 @@ My capstone project is to develop an app using the leading edge toolchain for de
 * 6:30-8:00pm continue tutorial, [add bindings to child views](https://github.com/meilar/scrumdinger/commit/e8b1b99dcf334ee8dea86024b28dce0e1239ffbd)
 
 ## Saturday 07 May 2022
-* 10AM-11AM: Continue iOS tutorial lessons. 
+* 10AM-11AM: Continue iOS tutorial lessons.
+* 11am-12pm: Continue iOS tutorial, [mutating state](https://github.com/meilar/scrumdinger/commit/1af76fd961f8b45dba09673408561574c1a57212)  
