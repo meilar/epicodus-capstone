@@ -23,4 +23,7 @@ My capstone project is to develop an app using the leading edge toolchain for de
 
 ## Saturday 07 May 2022
 * 10AM-11AM: Continue iOS tutorial lessons.
-* 11am-12pm: Continue iOS tutorial, [mutating state](https://github.com/meilar/scrumdinger/commit/1af76fd961f8b45dba09673408561574c1a57212)  
+* 11am-12pm: Continue iOS tutorial, [mutating state](https://github.com/meilar/scrumdinger/commit/1af76fd961f8b45dba09673408561574c1a57212)
+
+## Sunday 08 May 2022
+* 10am-11am: Continue iOS tutorial.
