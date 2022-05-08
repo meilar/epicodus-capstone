@@ -29,3 +29,4 @@ My capstone project is to develop an app using the leading edge toolchain for de
 * 10am-11am: Continue iOS tutorial.
 * 11am-12pm: Continue iOS tutorial.
 * 2pm-3pm: Continue iOS tutorial.
+* 3pm-4pm: Watch 'Demystifying Swift UI' video
